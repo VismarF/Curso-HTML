@@ -6,3 +6,9 @@
 <em></em> (deixa a frase ênfase )
 (<br/>) quebra de linha
 <strong></strong> (deixa a parte selecionada em negrito)
+<ul></ul>(lista não ordenada)
+<li></li> (lista)
+<ol></ol>(lista Ordenada)
+<dl></dl>(lista de definição)
+<dt></dt>(seria o item principal)
+<dd></dd>(Definição do item principal)
